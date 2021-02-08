@@ -61,12 +61,16 @@ header h1 {
     background-color: white;
     height: 50%;
     width: 50%;
-    border-radius: 5px;
-    
+    border-radius: 5px;    
+}
+
+ul {
+    list-style-type: none;
 }
 
 .liste-non-ordinate {
     padding: 15px 30px 15px 60px;
+
 }
 /*FINE MAIN*/
 
