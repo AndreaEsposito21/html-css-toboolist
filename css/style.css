@@ -8,10 +8,17 @@
 /*COMMON*/
 
 /*HEADER*/
+header {
+    height: 100px;
+    margin: 10px 20px;
+}
+
 .logo {
     vertical-align: middle;
 }
 
-header h2 {
+header h1 {
+    vertical-align: middle;
     display: inline-block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
