@@ -42,7 +42,18 @@ header h1 {
     display: inline-block;
     padding: 15px 30px 15px 60px;
     border-radius: 5px;
-    border: solid black;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#add-task {
+    background: #14AAF5;
+    color: white;
+}
+
+#add-sec {
+    border: 1px solid #c4cbd0;
+    color: #c4cbd0;
 }
 
 .liste {
