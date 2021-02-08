@@ -6,11 +6,16 @@
 }
 
 /*COMMON*/
+body {
+    background-color: #6c7f88;
+}
 
 /*HEADER*/
 header {
-    height: 100px;
-    margin: 10px 20px;
+    height: 75px;
+    margin: auto;
+    background-color: white;
+    padding: 10px 20px 10px 20px;
 }
 
 .logo {
@@ -22,3 +27,36 @@ header h1 {
     display: inline-block;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+/*FINE HEADER*/
+
+/*MAIN*/
+.link {
+    margin: 50px auto 5px;
+    background-color: white;
+    height: 50px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.link a {
+    display: inline-block;
+    padding: 15px 30px 15px 60px;
+    border-radius: 5px;
+    border: solid black;
+}
+
+.liste {
+    margin: auto;
+    background-color: white;
+    height: 50px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.liste-non-ordinate {
+    padding: 15px 30px 15px 60px;
+}
+/*FINE MAIN*/
+
+/*FOOTER*/
+/*FINE FOOTER*/
