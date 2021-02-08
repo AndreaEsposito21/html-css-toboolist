@@ -1,0 +1,17 @@
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*COMMON*/
+
+/*HEADER*/
+.logo {
+    vertical-align: middle;
+}
+
+header h2 {
+    display: inline-block;
+}
