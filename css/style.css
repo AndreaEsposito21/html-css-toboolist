@@ -8,6 +8,7 @@
 /*COMMON*/
 body {
     background-color: #6c7f88;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /*HEADER*/
@@ -25,7 +26,6 @@ header {
 header h1 {
     vertical-align: middle;
     display: inline-block;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 /*FINE HEADER*/
 
@@ -33,14 +33,14 @@ header h1 {
 .link {
     margin: 50px auto 5px;
     background-color: white;
-    height: 50px;
+    height: 50%;
     width: 50%;
     border-radius: 5px;
+    padding: 10px 100px 10px 40px;
 }
 
 .link a {
     display: inline-block;
-    padding: 15px 30px 15px 60px;
     border-radius: 5px;
     padding: 10px 20px;
     text-decoration: none;
@@ -59,9 +59,10 @@ header h1 {
 .liste {
     margin: auto;
     background-color: white;
-    height: 50px;
+    height: 50%;
     width: 50%;
     border-radius: 5px;
+    
 }
 
 .liste-non-ordinate {
